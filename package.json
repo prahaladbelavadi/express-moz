@@ -1,0 +1,25 @@
+{
+  "name": "express-moz",
+  "version": "1.0.0",
+  "description": "learnnign exppress using mozilla dev docs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prahaladbelavadi/express-moz.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Prahalad Belavadi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prahaladbelavadi/express-moz/issues"
+  },
+  "homepage": "https://github.com/prahaladbelavadi/express-moz#readme",
+  "devDependencies": {
+    "eslint": "^5.10.0"
+  }
+}
